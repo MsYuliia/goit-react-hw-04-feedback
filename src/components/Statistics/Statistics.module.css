@@ -1,0 +1,42 @@
+.statisticGood {
+  font-weight: 500;
+  font-size: 18px;
+  font-style: italic;
+  color: rgb(233, 212, 194);
+
+  margin-bottom: 8px;
+}
+
+.statisticNeutral {
+  font-weight: 500;
+  font-size: 18px;
+  font-style: italic;
+  color: rgb(108, 91, 75);
+
+  margin-bottom: 8px;
+}
+
+.statisticBad {
+  font-weight: 500;
+  font-size: 18px;
+  font-style: italic;
+  color: rgb(80, 68, 57);
+
+  margin-bottom: 8px;
+}
+
+.statisticTotal {
+  font-weight: 500;
+  font-size: 18px;
+  font-style: italic;
+  color: rgb(51, 44, 37);
+
+  margin-bottom: 20px;
+}
+
+.statisticPercent {
+  font-weight: 500;
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(233, 212, 194);
+}

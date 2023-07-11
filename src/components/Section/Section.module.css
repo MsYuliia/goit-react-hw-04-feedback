@@ -1,0 +1,19 @@
+.section {
+  width: 550px;
+
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.section:not(:last-child) {
+  padding-top: 200px;
+}
+
+.sectionTitle {
+  font-size: 24px;
+  font-style: italic;
+  color: rgb(74, 60, 47);
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
